@@ -38,7 +38,7 @@ Follow the steps below to add a new token：
     ]
 }
 ```
-* `address`[Required]: your token address.
+* `address`[Required]: 
 * `symbol`[Required]: your token symbol.
 * `name`[Required]: your token name.
 * `logoURI`[Required]: the logo URI of your token.
